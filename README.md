@@ -1,0 +1,4 @@
+- 👋 Hi there! I'm Krasimir Stoimenov
+- 👀 I’m interested in Software Programming
+- 🌱 I’m currently learning Software Development With C#
+- 📫 You can reach me through Email: Krassimir.Stoimenov@gmail.com
