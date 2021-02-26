@@ -15,3 +15,12 @@ Certifacates |
 [C# OOP - October 2020](https://softuni.bg/certificates/details/95693/c11d49db)
 [MS SQL - January 2021](https://softuni.bg/certificates/details/97862/5a8d0fbb)
 [C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrasimirStoimenov&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrasimirStoimenov&layout=compact)](https://github.com/KrasimirStoimenov/github-readme-stats" />
+</a>
