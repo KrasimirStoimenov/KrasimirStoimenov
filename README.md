@@ -4,7 +4,7 @@ About |
 -------------|                                                                            
  👋 Hi there! I'm Krasimir Stoimenov|                                                
  👀 I’m interested in Software Programming|                                           
- 🌱 I’m currently learning Software Development With C# at [SoftUni](softuni.bg)|     
+ 📔 I’m currently learning C# Web Development at [Software University - SoftUni](https://softuni.bg/)|     
 
 
   
