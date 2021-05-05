@@ -17,7 +17,7 @@ About |
 ✅[MS SQL - January 2021](https://softuni.bg/certificates/details/97862/5a8d0fbb)|
 ✅[Entity Framework Core - February 2021](https://softuni.bg/certificates/details/102588/857c07de)|
 ✅[C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)|
-✅[Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
+✅[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
 
 
 
