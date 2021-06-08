@@ -8,16 +8,17 @@ About |
 
 
   
-📜Certifacates |                                                                                        📡Connect via |
------------- |                                                                                           ------------ | 
-✅[Programming Basics with C# - January 2020](https://softuni.bg/certificates/details/77202/f29fdd21)|  💼[LinkedIn](https://www.linkedin.com/in/krassimir-stoimenov-2844a71b1/)
-✅[C# Fundamentals - May 2020](https://softuni.bg/certificates/details/86034/02b78725)|                 📸[Facebook](https://bg-bg.facebook.com/krassimir.stoimenov.7) 
-✅[C# Advanced - September 2020](https://softuni.bg/certificates/details/90212/ac340e4e)|               📧Email - Krassimir.Stoimenov@gmail.com  
+📜Certifacates |                                                                                       Date |
+------------ |                                                                                         ---------|
+✅[Programming Basics with C# - January 2020](https://softuni.bg/certificates/details/77202/f29fdd21)| 
+✅[C# Fundamentals - May 2020](https://softuni.bg/certificates/details/86034/02b78725)|                
+✅[C# Advanced - September 2020](https://softuni.bg/certificates/details/90212/ac340e4e)|              
 ✅[C# OOP - October 2020](https://softuni.bg/certificates/details/95693/c11d49db)|
 ✅[MS SQL - January 2021](https://softuni.bg/certificates/details/97862/5a8d0fbb)|
 ✅[Entity Framework Core - February 2021](https://softuni.bg/certificates/details/102588/857c07de)|
 ✅[C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)|
 ✅[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
+
 
 
 
@@ -28,3 +29,8 @@ About |
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrasimirStoimenov&layout=compact)](https://github.com/KrasimirStoimenov/github-readme-stats" />
 </a>                                  
                                                               
+📡Connect via 
+
+<a href="https://www.linkedin.com/in/krassimir-stoimenov-2844a71b1/"><img src="https://img.shields.io/badge/-Krasimir%20Stoimenov-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://mail.google.com/mail/u/0/"><img src="https://img.shields.io/badge/-Krassimir.Stoimenov@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.facebook.com/krassimir.stoimenov.7"><img src="https://img.shields.io/badge/-Krasimir%20Stoimenov-1877F2?style=flat&logo=facebook&logoColor=white"/></a>&nbsp;
