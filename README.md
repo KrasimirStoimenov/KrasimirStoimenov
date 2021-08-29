@@ -8,8 +8,8 @@ About |
 
 
   
-📜Certifacates |                                                                                       Date |
------------- |                                                                                         ---------|
+📜Certifacates |                                                                                      
+------------ |                                                                                        
 ✅[Programming Basics with C# - January 2020](https://softuni.bg/certificates/details/77202/f29fdd21)| 
 ✅[C# Fundamentals - May 2020](https://softuni.bg/certificates/details/86034/02b78725)|                
 ✅[C# Advanced - September 2020](https://softuni.bg/certificates/details/90212/ac340e4e)|              
