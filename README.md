@@ -4,7 +4,7 @@ About |
 -------------|                                                                            
  👋 Hi there! I'm Krasimir Stoimenov|                                                
  👀 I’m interested in Software Programming|                                           
- 📔 I’m currently learning C# Web Development at [Software University - SoftUni](https://softuni.bg/)|     
+ 📔 Successfully completed C# Web Development path at [Software University - SoftUni](https://softuni.bg/)|     
 
 
   
@@ -16,6 +16,12 @@ About |
 ✅[C# OOP - October 2020](https://softuni.bg/certificates/details/95693/c11d49db)|
 ✅[MS SQL - January 2021](https://softuni.bg/certificates/details/97862/5a8d0fbb)|
 ✅[Entity Framework Core - February 2021](https://softuni.bg/certificates/details/102588/857c07de)|
+✅[C# Web Basics - May 2021](https://softuni.bg/certificates/details/109362/14df77b0)|
+✅[ASP.NET Core - June 2021](https://softuni.bg/certificates/details/113345/1542a384)|
+✅[JS Advanced - September 2021](https://softuni.bg/certificates/details/114826/9761f601)|
+✅[JS Applications - October 2021](https://softuni.bg/certificates/details/121897/760ae639)|
+✅[Data Structures Fundamentals (with C#) - June 2021](https://softuni.bg/certificates/details/110021/387d55d6)|
+✅[Data Structures Advanced (with C#) - April 2022](https://softuni.bg/certificates/details/133517/571da861)|
 ✅[C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)|
 ✅[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
 
