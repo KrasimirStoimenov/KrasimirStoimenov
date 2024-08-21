@@ -5,12 +5,13 @@ About |
  👋 Hi there! I'm Krasimir Stoimenov|                                                
  👀 I’m interested in Software Programming|                                           
  📔 Successfully completed C# Web Development path at [Software University - SoftUni](https://softuni.bg/)|     
-
-
+ 📜 Diploma for professional qualification [C# Web Developer (4.0)](https://softuni.bg/certificates/details/134668/3b7e8dce)
   
 📜Certifacates |                                                                                      
 ------------ |                                                                                        
 ✅[Programming Basics with C# - January 2020](https://softuni.bg/certificates/details/77202/f29fdd21)| 
+✅[C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)|
+✅[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
 ✅[C# Fundamentals - May 2020](https://softuni.bg/certificates/details/86034/02b78725)|                
 ✅[C# Advanced - September 2020](https://softuni.bg/certificates/details/90212/ac340e4e)|              
 ✅[C# OOP - October 2020](https://softuni.bg/certificates/details/95693/c11d49db)|
@@ -22,10 +23,10 @@ About |
 ✅[JS Applications - October 2021](https://softuni.bg/certificates/details/121897/760ae639)|
 ✅[Data Structures Fundamentals (with C#) - June 2021](https://softuni.bg/certificates/details/110021/387d55d6)|
 ✅[Data Structures Advanced (with C#) - April 2022](https://softuni.bg/certificates/details/133517/571da861)|
-✅[C# Basic - HackerRank](https://www.hackerrank.com/certificates/67893ac70293)|
-✅[Problem Solving (Basic) - HackerRank](https://www.hackerrank.com/certificates/daaddcd0bc0a)|
-
-
+✅[JS Advanced - September 2021](https://softuni.bg/certificates/details/114826/9761f601)|
+✅[JS Applications - October 2021](https://softuni.bg/certificates/details/121897/760ae639)|
+✅[HTML & CSS - May 2024](https://softuni.bg/certificates/details/218467/5197a455)|
+✅[ReactJS - June 2024](https://softuni.bg/certificates/details/223085/b76e817c)|
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
