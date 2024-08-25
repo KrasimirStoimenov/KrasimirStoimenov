@@ -3,7 +3,7 @@
 About |                                                                               
 -------------|                                                                            
  👋 Hi there! I'm Krasimir Stoimenov|                                                
- 👀 I’m interested in Software Programming|                                           
+ 👀 I’m C# Software Developer!|                                           
  📔 Successfully completed C# Web Development path at [Software University - SoftUni](https://softuni.bg/)|     
  📜 Diploma for professional qualification [C# Web Developer (4.0)](https://softuni.bg/certificates/details/134668/3b7e8dce)
   
